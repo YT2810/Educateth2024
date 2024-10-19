@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "saludo",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -47,11 +33,11 @@
 	},
 	"sources": {
 		"HolaMundo.sol": {
-			"keccak256": "0xa66a3cf4e1656671ce399b0c2244a24e744a8461c3a1b048f8f21426708f7fd8",
+			"keccak256": "0x745e23df97f5381d0cb61ae94c27ca7c3d48068f6652f393955d62708ca09c5e",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ae5e2a7fd4bb4ba01adb5a9a4cf6ca5fc672021feb8435b2001dbde676f5f244",
-				"dweb:/ipfs/QmRDMkYmakAwzHxF7j4BMbMUK5BDDD3YeYqh5AA85wSnuP"
+				"bzz-raw://e07f3599d5c4666c519d0719b3641021172838960f725e214e3966187804fb3d",
+				"dweb:/ipfs/QmZ2xEC4rQpob9fwfitwL383e7iRSsGaCMCASBCKjwV2N4"
 			]
 		}
 	},

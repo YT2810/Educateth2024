@@ -33,7 +33,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "leer_saludo",
+				"name": "saludo",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -72,12 +72,20 @@
 		"remappings": []
 	},
 	"sources": {
-		"Hola_Mundo_Dinamico.sol": {
-			"keccak256": "0x0f45903fb8f96a844f076a704cf6a1a328a5d350e11ff3ffeae5d22f9a1e61f6",
+		"HolaMundo.sol": {
+			"keccak256": "0xa66a3cf4e1656671ce399b0c2244a24e744a8461c3a1b048f8f21426708f7fd8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7f55d4e61ff05786f2a13df94e0af5a879483bf4e643104f82ab78474934a93a",
-				"dweb:/ipfs/QmR9xqa6iJ98zsg9wEf9ciVoB5sq2ajkfzdSjgwwymFH4L"
+				"bzz-raw://ae5e2a7fd4bb4ba01adb5a9a4cf6ca5fc672021feb8435b2001dbde676f5f244",
+				"dweb:/ipfs/QmRDMkYmakAwzHxF7j4BMbMUK5BDDD3YeYqh5AA85wSnuP"
+			]
+		},
+		"Hola_Mundo_Dinamico.sol": {
+			"keccak256": "0x092dfb6e7d54b32234512ed163bc0c4ef55bd2d6949948f426edf5df7cc19e09",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://be31f831c93701b7c4576d708173018b9a452bb66236099c6db070631ca35a62",
+				"dweb:/ipfs/QmXfTrrZnNiBwvnunfBnK5FSRvM6qQuXxA4kmL6DiTYywA"
 			]
 		}
 	},
